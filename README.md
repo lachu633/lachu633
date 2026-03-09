@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Master of Computer Applications (MCA) student passionate about software development and learning modern technologies. I enjoy building projects using web technologies and continuously improving my skills in programming, system design, and backend development.
+I am a Master of Computer Applications (MCA) student passionate about software development and learning modern technologies. I enjoy building projects using web technologies and continuously improving my skills in programming. I am also interested in Data Analysis and enjoy working with data to discover insights, create visualizations, and support data-driven decision making. Along with this, I have a growing interest in UI/UX Design, focusing on creating intuitive, user-friendly, and visually appealing digital experiences.
 
 
 # 💻 Tech Stack:
